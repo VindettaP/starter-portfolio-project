@@ -4,13 +4,6 @@ A starter personal portfolio project using web technologies
 ### File Tree
 ```
 /
-├── css/
-│   ├── bootstrap.css
-│   ├── bootstrap-*-.css
-│   └── main.css    <- edit styles
-├── js/
-│   ├── bootstrap.js
-│   └── bootstrap-*-.js
 ├── index.html      <- edit structure
 └── README.md
 ```
@@ -18,8 +11,15 @@ A starter personal portfolio project using web technologies
 ### Getting Started
 
 1. Click `Use this template` (GitHub) at the top of the page.
-2. Fill out any information on the next page.
-3. Clone it onto your local machine and `cd` into the directory.
+2. Name your repository *your GitHub user name*.github.io
+3. Make sure your repository is public
+4. Click "Create repository from template"
+5. Click on index.html
+6. Click the pencil to edit the file
+7. Edit your webpage
+8. Name your changes
+9. Click on "commit changes"
+10. Visit your personal URL to veiw your changes!
 
 [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
